@@ -8,8 +8,6 @@ repositories:
   - prefix: jenkins-x
     urls:
       - http://localhost:8088
-      - https://storage.googleapis.com/chartmuseum.jenkins-x.io
-      - http://chartmuseum.jenkins-x.io
   - prefix: stable
     urls:
       - https://kubernetes-charts.storage.googleapis.com
